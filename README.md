@@ -21,4 +21,8 @@ Part 2
 * Lagrange Polynomial Interpolation
 * Newton's Polynomial Interpolation
 
+### Module C: Root Finding
+* Bisection Method
+* Newton Raphson Method
+
 
