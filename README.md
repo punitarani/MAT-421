@@ -25,4 +25,7 @@ Part 2
 * Bisection Method
 * Newton Raphson Method
 
-
+### Module D: Linear Algebra
+* Matrix Operations
+* Eigenvalues and Eigenvectors
+* Linear and Least Squares Regression
