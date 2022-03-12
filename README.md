@@ -30,11 +30,11 @@ Part 2
 * Eigenvalues and Eigenvectors
 * Linear and Least Squares Regression
 
-### Module E: Numerical Differentiation
+### Module E and F: Numerical Differentiation
 * Forward, Central and Backward Differentiation
 * Numerical Differentiation with Noise
 
-### Module F: Numerical Integration
+### Module G: Numerical Integration
 * Reimanns Integral
 * Trapezoidal Rule
 * Simpson's Rule
