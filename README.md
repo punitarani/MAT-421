@@ -40,3 +40,11 @@ Part 2
 * Simpson's Rule
 * Polynomial Integration
 * Fourier Approximation
+
+### Module H: Ordinary Differential Equations
+* Reduction of Order
+* The Euler Method
+* Numerical Error and Instability
+* Predictor-Corrector Method
+* Runge-Kutta Method
+* Python ODE Solvers
